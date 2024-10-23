@@ -5,12 +5,12 @@
 Institut Icària
 Programació - 1r Batxillerat - Curs 2023-24
 
-A partir de dos nombres, dividend i divisor, el programa 
+A partir de dos nombres, dividend i divisor, el programa
 calcula el quocient i el residu i els mostra en pantalla.
 A part mostra la divisió realitzada per pantalla.
 '''
 __author__ = "Roger León Arbó"
-__email__= "rleon@instituticaria.cat"
+__email__ = "rleon@instituticaria.cat"
 __date__ = "2024/10/23"
 
 dividend = int(input("Introdueix el dividend: "))
